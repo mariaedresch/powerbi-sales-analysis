@@ -37,3 +37,8 @@ O dashboard final apresenta leitura intuitiva, consistência visual e um modelo 
 - Boas práticas para ordenação personalizada no Power BI
 - Impacto da padronização visual na interpretação dos dados
 - Equilíbrio entre profundidade técnica e clareza analítica
+
+### Modelagem de Dados
+Foi adotada uma abordagem de modelagem com separação entre tabela fato e tabelas dimensão, seguindo boas práticas de esquema estrela.
+A tabela de dimensão **DimRegiao** foi criada para centralizar atributos descritivos e regras de ordenação, garantindo consistência visual entre os gráficos, evitando dependências circulares e facilitando a escalabilidade do modelo.
+
