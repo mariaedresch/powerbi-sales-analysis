@@ -10,7 +10,7 @@
 ![Dashboard - Análise por Região](Análise_por_Região.png)
 
 ## Arquivo Power BI
-O arquivo ".pbix" contendo o modelo de dados, medidas em DAX e visualizações está disponível neste repositório para exploração local no Power BI Desktop
+O arquivo ´.pbix´ contendo o modelo de dados, medidas em DAX e visualizações está disponível neste repositório para exploração local no Power BI Desktop
 
 
 ## Contexto
