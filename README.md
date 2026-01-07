@@ -7,7 +7,7 @@
 ![Dashboard - Visão Geral](Visão_Geral.png)
 
 ### Análise por Região
-![Dashboard - Análise por Região](images/Análise_por_Região.png)
+![Dashboard - Análise por Região](Análise_por_Região.png`)
 
 
 ## Contexto
