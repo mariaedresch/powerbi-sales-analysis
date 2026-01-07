@@ -4,7 +4,7 @@
 ## Dashboard
 
 ### Visão Geral
-![Dashboard - Visão Geral](images/Visão_Geral.png)
+![Dashboard - Visão Geral](Visão_Geral.png)
 
 ### Análise por Região
 ![Dashboard - Análise por Região](images/Análise_por_Região.png)
