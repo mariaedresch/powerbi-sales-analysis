@@ -1,6 +1,15 @@
 # powerbi-sales-analysis
 # Análise de Vendas – Sample Superstore (Power BI)
 
+## Dashboard
+
+### Visão Geral
+![Dashboard - Visão Geral](images/Visão_Geral.png)
+
+### Análise por Região
+![Dashboard - Análise por Região](images/Análise_por_Região.png)
+
+
 ## Contexto
 Este projeto foi desenvolvido com o objetivo de aplicar práticas profissionais de análise de dados, modelagem e visualização utilizando o Power BI.  
 A base de dados simula um cenário real de varejo, com foco na geração de insights e no suporte à tomada de decisão.
